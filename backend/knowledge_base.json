@@ -1,0 +1,58 @@
+[
+  {
+    "id": "budgeting-basics",
+    "title": "Build a household budget",
+    "publisher": "Reserve Bank of India (RBI)",
+    "section": "Financial education — budgeting",
+    "url": "https://www.rbi.org.in/financialeducation/",
+    "text": "A budget is a plan for income and expenditure over a period. Listing income and expenses helps a person understand where money goes and plan spending. A budget can be reviewed and adjusted as circumstances change. Keep essential expenses, discretionary expenses, savings and debt payments visible rather than assuming one budget split works for everyone."
+  },
+  {
+    "id": "saving-emergency",
+    "title": "Savings and emergency funds",
+    "publisher": "Reserve Bank of India (RBI)",
+    "section": "Financial education — saving",
+    "url": "https://www.rbi.org.in/financialeducation/",
+    "text": "Saving means setting aside part of current income for future use. An emergency reserve is intended for unexpected costs and can reduce the need to borrow when a shock occurs. The amount and where to keep savings depend on a person's circumstances, access needs and risk tolerance. Do not treat an illustrative savings calculator as a guaranteed return."
+  },
+  {
+    "id": "compound-interest",
+    "title": "Understanding compound interest",
+    "publisher": "Reserve Bank of India (RBI)",
+    "section": "Financial education — interest and saving",
+    "url": "https://www.rbi.org.in/financialeducation/",
+    "text": "Compound interest is interest calculated on the original principal and on interest accumulated in earlier periods. The outcome depends on the principal, rate, compounding frequency and time. A calculator projection based on a fixed rate is a mathematical illustration; actual investment returns can vary and may be negative."
+  },
+  {
+    "id": "mutual-funds",
+    "title": "Mutual funds and investor education",
+    "publisher": "Securities and Exchange Board of India (SEBI)",
+    "section": "Investor education",
+    "url": "https://investor.sebi.gov.in/",
+    "text": "A mutual fund pools money from investors and invests it according to the scheme's stated objective. Before investing, an investor should read the scheme-related documents and understand the objective, risks, costs and applicable terms. Mutual fund investments are subject to market risks; returns are not assured or guaranteed."
+  },
+  {
+    "id": "risk-diversification",
+    "title": "Investment risk and diversification",
+    "publisher": "Securities and Exchange Board of India (SEBI)",
+    "section": "Investor education",
+    "url": "https://investor.sebi.gov.in/",
+    "text": "Investment products carry different kinds and levels of risk. Diversification spreads money across investments and may reduce the effect of a poor outcome in one holding, but it does not eliminate market risk or guarantee a profit. Risk, time horizon, liquidity needs and costs should be considered before making an investment decision."
+  },
+  {
+    "id": "fraud-protection",
+    "title": "Investor awareness and avoiding fraud",
+    "publisher": "Securities and Exchange Board of India (SEBI)",
+    "section": "Investor awareness",
+    "url": "https://www.sebi.gov.in/investor-education.html",
+    "text": "Investors should be cautious of promises of assured or unusually high returns and should verify whether an intermediary is registered with the relevant regulator. Read official product and intermediary information, understand the risks, and avoid making decisions under pressure. Do not share passwords, PINs or one-time passwords with anyone."
+  },
+  {
+    "id": "loans-emi",
+    "title": "Loan repayment and EMI basics",
+    "publisher": "Reserve Bank of India (RBI)",
+    "section": "Financial education — borrowing",
+    "url": "https://www.rbi.org.in/financialeducation/",
+    "text": "An equated monthly instalment (EMI) is a periodic payment used to repay a loan. For a standard fixed-rate amortising loan, the EMI reflects repayment of principal and interest over the chosen tenure. Actual lender payments can also depend on fees, rate resets, insurance and contract terms. A calculator is an estimate and should be checked against the lender's disclosed schedule."
+  }
+]

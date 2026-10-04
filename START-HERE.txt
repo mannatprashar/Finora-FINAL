@@ -1,0 +1,32 @@
+FINORA — COMPLETE IMMERSIVE BUILD
+
+This ZIP contains the complete project: immersive frontend, chatbot, finance tools, CSV import, market data integration, Flask backend, and tests.
+
+IMPORTANT: Open the Finora folder in VS Code. Do not open frontend/index.html with Live Preview. This is a Vite + React app.
+
+BACKEND (Terminal 1, from the Finora folder):
+cd backend
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+py -m pip install -r requirements.txt
+Copy-Item .env.example .env
+py app.py
+
+FRONTEND (Terminal 2, from the Finora folder):
+cd frontend
+npm install
+npm run dev
+
+Open the localhost URL printed by Vite (usually http://localhost:5173/).
+Keep both terminals running. The backend terminal should remain open.
+
+To enable AI responses, add your own API key to backend/.env. Never share or commit it.
+The app also has a demo chat mode without an API key.
+
+
+GROQ + PINECONE SETUP
+1. Keep backend/.env private. Add GROQ_API_KEY, PINECONE_API_KEY, and PINECONE_INDEX_NAME=llama-text-embed-v2-index.
+2. In a terminal opened in the backend folder, run: py -m pip install -r requirements.txt
+3. Upload the bundled financial knowledge base: py ingest.py
+4. Start the backend: py app.py
+5. Start the frontend from frontend: npm run dev (install frontend dependencies first with npm install if needed).
